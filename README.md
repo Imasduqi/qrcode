@@ -118,13 +118,9 @@ flutter run -d web-server --web-port=8080
 
 ## Screenshot
 
-> *(Tambahkan screenshot aplikasi di sini setelah build)*
-
 | Splash Screen | Generate QR | Scan QR |
 |---|---|---|
-| ![splash](#) | ![generate](#) | ![scan](#) |
-
----
+| ![splash](screenshots/splash.png) | ![generate](screenshots/generate.png) | ![scan](screenshots/scan.png) |
 
 ## Catatan Pengembangan
 
